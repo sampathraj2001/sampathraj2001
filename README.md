@@ -1,4 +1,4 @@
-# Hello, I'm Sampath!
+# Hello, I'm Sampath Raj!
 
 Welcome to my GitHub profile! I am an aspiring data scientist passionate about exploring and analyzing diverse datasets to derive meaningful insights. Here you will find my projects and contributions related to machine learning, data analysis, and more.
 
